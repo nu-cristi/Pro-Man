@@ -23,3 +23,7 @@ Run main.py
 * Python
 
 <img width="1494" alt="Screenshot 2023-05-04 at 15 25 16" src="https://user-images.githubusercontent.com/101981056/236203411-50b69ce5-3062-4172-a645-1fdf94e635c8.png">
+
+<img width="1504" alt="Screenshot 2023-05-08 at 13 34 44" src="https://user-images.githubusercontent.com/101981056/236802980-c7ca5da0-b0a5-4cba-b728-e3676f8fe9fa.png">
+
+<img width="1504" alt="Screenshot 2023-05-08 at 13 36 03" src="https://user-images.githubusercontent.com/101981056/236803017-3acda26d-6a85-4a1d-8b15-376c1098b5cd.png">
